@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Faisal Mahamud</h1>
 <h3 align="center">A passionate Web developer</h3>
 
-- 🔭 I’m currently working on **  React JS, Express JS , JavaScript (ES6), Firebase, API,Bootstrap, Tailwind,React Hook ,React Query,SPA,JWT, HTML, CSS,MongoDB , MySQL**
+- 🔭 I’m currently working on **React JS, Express JS , JavaScript (ES6), Firebase, API,Bootstrap, Tailwind,React Hook ,React Query,SPA,JWT, HTML, CSS,MongoDB , MySQL**
 
 - 🌱 I’m currently learning **Next JS,Mongoose,Typescript,Redux**
 
