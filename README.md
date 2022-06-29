@@ -1,8 +1,6 @@
 ### I am Faisal Mahamud (Web Developer)
 
 
-**FaisalMahamudCS/FaisalMahamudCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on  React JS, Express JS , JavaScript (ES6), Firebase, API,Bootstrap, Tailwind,React Hook ,React Query,SPA,JWT, HTML, CSS,MongoDB , MySQL
