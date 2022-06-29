@@ -4,15 +4,11 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on  React JS, Express JS , JavaScript (ES6), Firebase, API,Bootstrap, Tailwind,React Hook ,React Query,SPA,JWT, HTML, CSS,MongoDB , MySQL
-- 🌱 I’m currently learning Mongoose,Next Js,Redux,Typescript
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 <h1 align="center">Hi 👋, I'm Faisal Mahamud</h1>
 <h3 align="center">A passionate Web developer</h3>
+
+- 🔭 I’m currently working on **  React JS, Express JS , JavaScript (ES6), Firebase, API,Bootstrap, Tailwind,React Hook ,React Query,SPA,JWT, HTML, CSS,MongoDB , MySQL**
 
 - 🌱 I’m currently learning **Next JS,Mongoose,Typescript,Redux**
 
