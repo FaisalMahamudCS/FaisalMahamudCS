@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Web Developer(Velozity Global Solutions)</h3>
 
 
-- 🔭 I’m currently working on **Next JS,Postgresql,Sequalizer,SocketIo,Mongoose,React JS, Express JS , JavaScript (ES6), Firebase, API,Bootstrap, Tailwind,React Hook ,React Query,SPA,JWT, HTML, CSS,MongoDB , MySQL**
+- 🔭 I’m currently working on **Next JS,Postgresql,Node JS,AWS, Sequalizer,SocketIo,Mongoose,React JS, Express JS , JavaScript (ES6), Firebase, API,Bootstrap, Tailwind,React Hook ,React Query,SPA,JWT, HTML, CSS,MongoDB , MySQL**
 
 - 🌱 I’m currently learning **Next JS,Mongoose,Typescript,Redux**
 
