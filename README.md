@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Faisal Mahamud</h1>
-<h3 align="center">Full Stack Web Developer(Velozity Global Solutions)</h3>
+<h3 align="center">Full Stack Web Developer at (Agrigate Network Limited)</h3>
 
 
 - 🔭 I’m currently working on **Next JS,Postgresql,Node JS,AWS, Sequalizer,SocketIo,Mongoose,React JS, Express JS , JavaScript (ES6), Firebase, API,Bootstrap, Tailwind,React Hook ,React Query,SPA,JWT, HTML, CSS,MongoDB , MySQL**
