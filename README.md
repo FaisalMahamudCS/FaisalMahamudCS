@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faisal Mahamud</h1>
-<h3 align="center">Senior Full Stack Developer | PERN Stack Specialist | Agricultural Technology Expert</h3>
+<h3 align="center">Senior Full Stack Developer | PERN Stack Specialist |Devops</h3>
 <h4 align="center">Currently working as Full Stack Developer & Lead DevOps at Agrigate Network Limited</h4>
 
 <p align="center">
