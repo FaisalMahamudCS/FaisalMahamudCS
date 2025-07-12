@@ -16,7 +16,7 @@
 - 🎯 **Focus Areas:** Agricultural Technology, Healthcare Systems, Real-time Data Visualization
 - 💬 **Ask me about:** React.js, Node.js, PostgreSQL, AWS, Docker, CI/CD, Agricultural Tech Solutions
 - 📫 **How to reach me:** faisal.mahamud.cs@gmail.com
-- 📄 **Know about my experiences:** [Resume](https://drive.google.com/file/d/1c0N9mbY07TJUGoHwN1LCCv7SBebmHjLI/view?usp=sharing)
+- 📄 **Know about my experiences:** [Resume](https://drive.google.com/file/d/1RxA1WoIduLTmuVZN7b5ba88ajcF1k5ke/view)
 - 🌐 **Portfolio:** [https://faisalmahamud.netlify.app/](https://faisalmahamud.netlify.app/)
 
 ---
